@@ -56,3 +56,37 @@
 [2023-07-03T06:57:09.200Z] info: Order not found! 🧨  
 [2023-07-03T07:00:39.597Z] info: Cannot read properties of undefined (reading 'id')  
 [2023-07-03T07:01:39.074Z] info: WHERE parameter "id" has invalid "undefined" value  
+[2023-07-03T17:40:02.225Z] info: jwt expired  
+[2023-07-03T17:43:38.024Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:44:18.079Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:44:25.622Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:45:15.603Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:45:16.487Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:45:41.327Z] info: Cannot read properties of undefined (reading 'user')  
+[2023-07-03T17:46:00.694Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:46:04.569Z] info: Cannot read properties of undefined (reading 'user')  
+[2023-07-03T17:46:09.908Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:46:29.346Z] info: Cannot read properties of undefined (reading 'user')  
+[2023-07-03T17:46:42.165Z] info: Cannot read properties of undefined (reading 'user')  
+[2023-07-03T17:46:46.470Z] info: Cannot read properties of undefined (reading 'user')  
+[2023-07-03T17:46:54.191Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:46:58.429Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:47:17.566Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:47:27.799Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:47:33.088Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:47:53.825Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:48:05.147Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:48:30.765Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:48:35.857Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:48:59.306Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T17:49:14.074Z] info: You not are the owner of this account!  
+[2023-07-03T17:49:49.326Z] info: You not are the owner of this account!  
+[2023-07-03T17:50:01.820Z] info: You not are the owner of this account!  
+[2023-07-03T17:50:06.029Z] info: You not are the owner of this account!  
+[2023-07-03T17:50:16.635Z] info: You not are the owner of this account!  
+[2023-07-03T17:50:34.930Z] info: Cannot read properties of undefined (reading 'update')  
+[2023-07-03T17:50:48.452Z] info: Cannot read properties of undefined (reading 'update')  
+[2023-07-03T17:51:14.279Z] info: Cannot read properties of undefined (reading 'update')  
+[2023-07-03T17:52:16.519Z] info: review.update is not a function  
+[2023-07-03T17:52:52.696Z] info: You attempted to save an instance with no primary key, this is not allowed since it would result in a global update  
+[2023-07-03T18:30:38.217Z] info: Review not found! 🧨  

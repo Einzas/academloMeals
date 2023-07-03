@@ -4,10 +4,11 @@ const Review = require('../models/review.model');
 const User = require('../models/user.model');
 
 exports.validReview = catchAsync(async (req, res, next) => {
-  const { id } = req.params;
+  const { id, restaurantId } = req.params;
   const review = await Review.findOne({
     where: {
       id: id,
+      restaurantId: restaurantId,
       status: 'active',
     },
     include: [
