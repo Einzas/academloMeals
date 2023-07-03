@@ -1,0 +1,58 @@
+[2023-06-29T15:56:24.393Z] info: Can't find /api/v1/repairs on this server! || undefined undefined
+[2023-06-29T15:57:23.244Z] info: Can't find /api/v1/repairs on this server!  
+[2023-06-29T15:59:08.813Z] info: User with that email not found!  
+[2023-06-29T16:01:07.149Z] info: notNull Violation: user.role cannot be null  
+[2023-06-29T16:02:09.961Z] info: la sintaxis de entrada no es válida para el enum enum_users_role: «»  
+[2023-06-29T16:02:37.679Z] info: llave duplicada viola restricción de unicidad «users_email_key»  
+[2023-07-02T22:32:24.751Z] info: User with that email not found!  
+[2023-07-02T22:32:32.453Z] info: Invalid email or password  
+[2023-07-02T22:33:43.881Z] info: You are not logged in! Please log in to get access.  
+[2023-07-02T22:37:39.871Z] info: The user belonging to this token does no longer exist.  
+[2023-07-02T22:38:06.597Z] info: You not are the owner of this account!  
+[2023-07-02T22:38:20.540Z] info: You not are the owner of this account!  
+[2023-07-02T23:36:18.182Z] info: Can't find /api/v1/restaurants%20 on this server!  
+[2023-07-02T23:36:29.567Z] info: You are not logged in! Please log in to get access.  
+[2023-07-02T23:36:37.369Z] info: jwt expired  
+[2023-07-02T23:43:41.462Z] info: Cannot read properties of undefined (reading 'update')  
+[2023-07-02T23:43:44.499Z] info: Cannot read properties of undefined (reading 'update')  
+[2023-07-02T23:45:29.414Z] info: Can't find /api/v1/restaurants/2 on this server!  
+[2023-07-02T23:46:21.123Z] info: You are not logged in! Please log in to get access.  
+[2023-07-02T23:46:26.832Z] info: You do not have permission to perform this action  
+[2023-07-02T23:48:32.550Z] info: You are not logged in! Please log in to get access.  
+[2023-07-02T23:49:11.135Z] info: Review is not defined  
+[2023-07-02T23:49:44.087Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-02T23:50:19.177Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-02T23:50:20.582Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-02T23:57:53.338Z] info: You not are the owner of this account!  
+[2023-07-03T00:00:24.048Z] info: You not are the owner of this account!  
+[2023-07-03T00:03:43.194Z] info: You not are the owner of this account!  
+[2023-07-03T00:04:37.498Z] info: You not are the owner of this account!  
+[2023-07-03T00:05:46.847Z] info: You not are the owner of this account!  
+[2023-07-03T00:12:07.095Z] info: Can't find /api/v1/auth/signup on this server!  
+[2023-07-03T00:12:26.695Z] info: llave duplicada viola restricción de unicidad «users_email_key»  
+[2023-07-03T00:13:01.102Z] info: You not are the owner of this account!  
+[2023-07-03T00:13:09.621Z] info: You not are the owner of this account!  
+[2023-07-03T00:13:26.512Z] info: la sintaxis de entrada no es válida para el enum enum_reviews_status: «deleted»  
+[2023-07-03T06:15:33.714Z] info: You are not logged in! Please log in to get access.  
+[2023-07-03T06:15:52.289Z] info: You are not logged in! Please log in to get access.  
+[2023-07-03T06:15:54.052Z] info: You are not logged in! Please log in to get access.  
+[2023-07-03T06:16:27.757Z] info: notNull Violation: meal.restaurantId cannot be null  
+[2023-07-03T06:16:37.263Z] info: Can't find /api/v1/meals/1 on this server!  
+[2023-07-03T06:17:02.279Z] info: Can't find /api/v1/meals/1 on this server!  
+[2023-07-03T06:19:01.188Z] info: You are not logged in! Please log in to get access.  
+[2023-07-03T06:20:38.142Z] info: You are not logged in! Please log in to get access.  
+[2023-07-03T06:23:24.958Z] info: You do not have permission to perform this action  
+[2023-07-03T06:47:52.124Z] info: Can't find /api/v1/orders on this server!  
+[2023-07-03T06:48:00.295Z] info: Can't find /api/v1/orders on this server!  
+[2023-07-03T06:48:45.927Z] info: You are not logged in! Please log in to get access.  
+[2023-07-03T06:49:59.407Z] info: Meal not found! 🧨  
+[2023-07-03T06:50:29.577Z] info: You are not logged in! Please log in to get access.  
+[2023-07-03T06:53:43.206Z] info: WHERE parameter "id" has invalid "undefined" value  
+[2023-07-03T06:53:49.879Z] info: WHERE parameter "id" has invalid "undefined" value  
+[2023-07-03T06:54:52.479Z] info: WHERE parameter "id" has invalid "undefined" value  
+[2023-07-03T06:55:41.396Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T06:56:35.038Z] info: You not are the owner of this account!  
+[2023-07-03T06:56:53.134Z] info: You not are the owner of this account!  
+[2023-07-03T06:57:09.200Z] info: Order not found! 🧨  
+[2023-07-03T07:00:39.597Z] info: Cannot read properties of undefined (reading 'id')  
+[2023-07-03T07:01:39.074Z] info: WHERE parameter "id" has invalid "undefined" value  
